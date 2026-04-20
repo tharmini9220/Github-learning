@@ -4,3 +4,5 @@ NATIONALITY
 class
 year
 address
+add video call
+add audio call
