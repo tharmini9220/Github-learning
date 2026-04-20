@@ -1,3 +1,6 @@
 NAME
 AGE
 NATIONALITY
+class
+year
+address
